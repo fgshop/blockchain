@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gomisha/blockchain.git"
+    "url": "git+https://github.com/fgshop/blockchain.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gomisha/blockchain/issues"
+    "url": "https://github.com/fgshop/blockchain/issues"
   },
-  "homepage": "https://github.com/gomisha/blockchain#readme",
+  "homepage": "https://github.com/fgshop/blockchain#readme",
   "devDependencies": {
     "@types/express": "^4.16.0",
     "@types/jest": "^23.1.3",
