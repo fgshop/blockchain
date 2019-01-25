@@ -13,7 +13,10 @@ sudo npm install -g local-web-server
 # Install Dependencies
 npm install
 
-#Install TSBC from the NPM Module
+# Install TSBC from the NPM Module
+npm install --save tsbc
+
+# Build & Compile
 npm run build # Compile
 npm run start # Execute
 
